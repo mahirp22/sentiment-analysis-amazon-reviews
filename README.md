@@ -1,6 +1,6 @@
-# Sentiment Analysis of Text Data Using Python
+# AI Sentiment Analysis of Text Data Using Python
 
-A Python-based sentiment analysis project that applies natural language processing (NLP) techniques to analyze and classify text data.  
+This project applies **artificial intelligence techniques**, specifically **machine learning and natural language processing (NLP)**, to analyze and classify the sentiment of Amazon customer reviews. Using Python-based tools, the system learns patterns from text data to determine whether reviews express positive or negative sentiment.
 This project demonstrates a complete analysis workflow, from data preprocessing and feature extraction to sentiment classification and result interpretation using real-world text data.
 
 The project was built for learning and experimentation, with a focus on understanding how sentiment analysis works under the hood rather than treating it as a black box.
@@ -71,6 +71,10 @@ To run this project on your local machine:
 
 ## 📚 What I Learned
 This project strengthened my understanding of both data analysis and natural language processing concepts.
+
+### AI & Machine Learning
+- Applied machine learning and NLP techniques to build an AI system that learns sentiment patterns from text data.
+
 
 ### 🧠 Text Preprocessing & NLP
 - Learned how raw text must be cleaned and normalized before analysis
